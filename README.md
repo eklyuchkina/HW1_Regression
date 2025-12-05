@@ -138,6 +138,9 @@ project/
 
 ## 11. Установка и запуск приложения
 
+Готовое приложение Streamlit доступно по ссылке:  
+https://hw1regression-ikd9o82ve9tonphdhbxkxq.streamlit.app
+
 ### Установка зависимостей:
 ```
 pip install -r requirements.txt
